@@ -15,17 +15,17 @@ body, html {
   
   }
   .bgimg-1 {
-    background-image: url("men.jpg");
+    background-image: url("image/men.jpg");
     min-height: 100%;
   }
   
   .bgimg-2 {
-    background-image: url("lady.jpg");
+    background-image: url("image/lady.jpg");
     min-height: 400px;
   }
   
   .bgimg-3 {
-    background-image: url("friends.jpg");
+    background-image: url("image/friends.jpg");
     min-height: 400px;
   }
   
